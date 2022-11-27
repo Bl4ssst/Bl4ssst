@@ -18,7 +18,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  <img align="right" alt="gif" src="https://c.tenor.com/9bC8wn-2rSwAAAAd/leonardo-dicaprio.gif">
+  <img align="center" alt="gif" src="https://c.tenor.com/9bC8wn-2rSwAAAAd/leonardo-dicaprio.gif">
 </div>
   
 ##
