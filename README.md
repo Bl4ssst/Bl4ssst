@@ -16,7 +16,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://devicons.railway.app/i/react.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://devicons.railway.app/i/cplusplus.png">
+  <img align="center" alt="C++" height="30" width="40" src="https://img.icons8.com/color/512/c-plus-plus-logo.png">
   <img align="center" alt="ARDUINO" height="30" width="40" src="https://devicons.railway.app/i/arduino.svg">
 
 </div>
