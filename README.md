@@ -1,6 +1,6 @@
 ### Hi there! I am Igor
 
-- 🌱 I’m currently learning Python, Javascript, CSS, HTML, SASS and C++
+- 🌱 I’m currently learning Python, Javascript, CSS, HTML, SASS, C++ and Arduino system
 - 📫 How to reach me: igorst3309@protonmail.com
 - 😄 Pronouns: he/him
 
@@ -16,7 +16,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://devicons.railway.app/i/react.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://devicons.railway.app/i/cplusplus.png">
+  <img align="center" alt="ARDUINO" height="30" width="40" src="https://devicons.railway.app/i/arduino.svg">
+
 </div>
   
 ##
