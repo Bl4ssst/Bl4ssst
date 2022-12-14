@@ -19,7 +19,7 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="ARDUINO" height="30" width="40" src="https://devicons.railway.app/i/arduino.svg">  
   <img align="center" alt="Sass" height="30" width="40" src="https://devicons.railway.app/i/sass.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://devicons.railway.app/i/bootstrap.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://devicons.railway.app/i/bootstrap.svg">
 
   
 </div>
