@@ -1,9 +1,3 @@
-### Hi there! I am Igor
-
-- 🌱 I’m currently learning Python, Javascript, CSS, HTML, SASS, C++ and Arduino system
-- 📫 How to reach me: igorst3309@protonmail.com
-- 😄 Pronouns: he/him
-
 <div>
   <a href="https://github.com/Bl4ssst">
   <img heigh="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Bl4ssst&show_icons=true&theme=radical&include_all_commits"> 
